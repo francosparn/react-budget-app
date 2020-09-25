@@ -1,3 +1,11 @@
+## Preview
+
+Weekly budget application developed with React. Other technologies used HTML, CSS and Bootstrap 4. For alert messages use the SweetAlert2 module.
+
+![](https://i.imgur.com/aoINU9H.png)
+
+![](https://i.imgur.com/koXru6N.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
